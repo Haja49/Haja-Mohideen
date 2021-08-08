@@ -1,6 +1,6 @@
 # Haja-Mohideen
 
-![alt text](https://github.com/Haja49/Haja-Mohideen/Profile.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Haja49/Haja-Mohideen/master/Profile.png?raw=true)
 
 Software Developer in Test @BNP Paribas.
 
