@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Haja49/Haja-Mohideen/master/BuildYourDream.png?raw=true)
 
-Software Developer in Test @BNP Paribas.
+Software Developer in Test @VMware.
 
 5+ Years of experience into test automation in both front-end and back-end.
 
@@ -12,15 +12,15 @@ I utilize my expertise to deliver innovative solutions on automation.
 
 **Technical Skills**
 
-✔ Front-End (UI) Automation: Selenium WebDriver with Java
+✔ Front-End (UI) Automation: Selenium WebDriver with Java/ Python, Playwright with Java
 
 ✔ Back-End (API) Automation: Restful automation using Postman and Rest Assured
 
 ✔ DevOps Automation : Git, Maven, Jenkins, Docker
 
-✔ Programming Languages : Core Jave (7 and 8)
+✔ Programming Languages : Core Jave (7 and 8), Python
 
-✔ Source Control Tools: GitHub, Bitbucket
+✔ Source Control Tools: GitHub, Bitbucket, GitLab
 
 ✔ Build Tools: Maven, Gradle
 
