@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Haja49/Haja-Mohideen/master/BuildYourDream.png?raw=true)
 
-Impressive qualifications and skills:
+**Impressive qualifications and skills:**
 
 🌟 Role: Software Developer in Test at VMware.
 
@@ -12,7 +12,7 @@ Impressive qualifications and skills:
 
 🌟 Innovation: Committed to delivering cutting-edge automation solutions.
 
-🔧 Technical Skills:
+**🔧 Technical Skills:**
 
 ✔ Front-End (UI) Automation: Proficient in Selenium WebDriver with Java and Python.
 ✔ Back-End (API) Automation: Skilled in Restful automation using Postman and Rest Assured.
