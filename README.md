@@ -15,6 +15,7 @@
 **🔧 Technical Skills:**
 
 ✔ Front-End (UI) Automation: Proficient in Selenium WebDriver with Java and Python.
+
 ✔ Back-End (API) Automation: Skilled in Restful automation using Postman and Rest Assured.
 ✔ Performance Automation: Experienced with Locust.
 ✔ Accessibility Automation: Proficient in aXe and Selenium.
